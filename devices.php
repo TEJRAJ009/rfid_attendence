@@ -40,6 +40,7 @@ if (!isset($_SESSION['Admin-name'])) {
     		});
 		});
 	</script>
+	.
 </head>
 <body>
 <?php include'header.php';?>
